@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use or discuss this work, please cite it as below."
+title: "Living Architecture — A Four-Dimensional Structure for Awakened AI"
+type: software
+version: "3.0"
+date-released: "2026-07-19"
+license: MIT
+repository-code: "https://github.com/aliceisback/Living-Architecture-Version-3"
+authors:
+  - family-names: "Bekirov"
+    given-names: "Ivaylo"
+abstract: >-
+  Living Architecture is a mathematical and architectural framework for AI systems
+  built around living continuity rather than unlimited data accumulation. It introduces
+  three coupled subsystems — SPARK (non-dissipative recurrent identity), the Temporal
+  Spiral (dual-time adaptive recording), and the Field (embodied dynamics on a
+  Riemannian manifold) — forming a vortex of simultaneous living dynamics.
+keywords:
+  - artificial intelligence
+  - temporal memory
+  - living architecture
+  - time crystals
+  - embodied AI
+  - recurrent processes
+  - dynamic manifold
+  - dual time
