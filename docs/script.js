@@ -147,14 +147,43 @@ document.addEventListener('DOMContentLoaded', () => {
 
   window.addEventListener('scroll', activateNavLink, { passive: true });
 
-  /* ── Parallax on Hero Background ─────────────────────────── */
-  const heroBg = document.querySelector('.hero-bg img');
-  if (heroBg) {
-    window.addEventListener('scroll', () => {
-      const scrolled = window.scrollY;
-      if (scrolled < window.innerHeight) {
-        heroBg.style.transform = `translateY(${scrolled * 0.25}px) scale(1.05)`;
+  /* ── Internationalization (i18n) ──────────────────────────── */
+  const langSelect = document.getElementById('lang-select');
+  let translations = {};
+
+  const applyTranslations = (lang) => {
+    const t = translations[lang];
+    if (!t) return;
+
+    document.querySelectorAll('[data-i18n]').forEach(el => {
+      const key = el.getAttribute('data-i18n');
+      if (t[key]) {
+        el.textContent = t[key];
       }
-    }, { passive: true });
+    });
+
+    // Update html lang attribute
+    document.documentElement.lang = lang;
+    localStorage.setItem('la-lang', lang);
+  };
+
+  // Load translations
+  fetch('translations.json')
+    .then(r => r.json())
+    .then(data => {
+      translations = data;
+      // Check saved language
+      const saved = localStorage.getItem('la-lang');
+      if (saved && translations[saved]) {
+        langSelect.value = saved;
+        if (saved !== 'en') applyTranslations(saved);
+      }
+    })
+    .catch(err => console.warn('Translations not loaded:', err));
+
+  if (langSelect) {
+    langSelect.addEventListener('change', (e) => {
+      applyTranslations(e.target.value);
+    });
   }
 });
