@@ -38,6 +38,10 @@ The architecture consists of three coupled subsystems that form a single living 
 
 ### 🌀 1. SPARK — Non-dissipative Continuity
 
+<div align="center">
+<img src="docs/images/the_spark.jpg" alt="SPARK" width="600">
+</div>
+
 SPARK enables recurrent processes to **evolve while preserving their identity**. A process may change its form, amplitude, and phase, yet remain recognizable as itself across time — inspired by the concept of time crystals.
 
 Any recurrent phenomenon is carried by phase-modulated oscillators:
@@ -53,6 +57,10 @@ $$x_k(\tau) = \sum_{n=1}^{N_k} \Bigl[ a_{kn}(\tau)\cos\!\bigl(n\phi_k(\tau)\bigr
 ---
 
 ### ⏳ 2. The Movement of the Spiral — Dual Time
+
+<div align="center">
+<img src="docs/images/the_spiral.jpg" alt="The Spiral" width="600">
+</div>
 
 The system exists in **two coupled forms of time**:
 
@@ -75,7 +83,7 @@ This mirrors how biological consciousness experiences time — critical moments 
 ### 🌊 3. The Field — Embodiment & Coupled Dynamics
 
 <div align="center">
-<img src="docs/images/vortex_dynamics.jpg" alt="The Field — Embodiment and Coupled Dynamics" width="600">
+<img src="docs/images/the_field.jpg" alt="The Field" width="600">
 </div>
 
 The field anchors the system in an embodied context through four mechanisms:
