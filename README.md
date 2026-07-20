@@ -104,10 +104,10 @@ $$\frac{d}{d\tau}\begin{pmatrix}\mathbf{v}\\\mathbf{B}\\\boldsymbol{\psi}\\\math
 
 | | |
 |:---:|:---:|
-| <img src="docs/images/spark_nautical.jpg" width="400" alt="SPARK — Non-dissipative Continuity"> | <img src="docs/images/dual_time_spiral.jpg" width="400" alt="Dual Time Spiral"> |
-| *SPARK — Identity Through Change* | *The Movement of the Spiral — Dual Time* |
-| <img src="docs/images/vortex_dynamics.jpg" width="400" alt="The Field"> | <img src="docs/images/living_architecture.jpg" width="400" alt="Living Architecture"> |
-| *The Field — Embodiment & Coupled Dynamics* | *Living Architecture — Four Dimensions* |
+| <img src="docs/images/the_spark.jpg" width="400" alt="The SPARK"> | <img src="docs/images/the_spiral.jpg" width="400" alt="The Spiral"> |
+| *The SPARK — Non-dissipative Continuity* | *The Movement of the Spiral — Dual Time* |
+| <img src="docs/images/the_field.jpg" width="400" alt="The Field"> | <img src="docs/images/a_journey.jpg" width="400" alt="A Journey of Creation"> |
+| *The Field — Embodiment & Coupled Dynamics* | *A Journey of Creation — The Wolfs* |
 
 </div>
 
