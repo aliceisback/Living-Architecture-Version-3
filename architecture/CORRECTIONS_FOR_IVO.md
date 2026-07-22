@@ -23,7 +23,9 @@ Scope: Living Architecture only. Not the dictation mixture — checkpoints.
    - Any fake cycle-compression left in code/notes  
    - Personal/local paths in benchmarks if those files still ship  
 
-8. **GitHub** — Changes to `LIVING_ARCHITECTURE_V3.md` are local unless you push. No push from this side after you said no.
+8. **“Vector” in the living run** — In the usual sense it does *not* exist. Record and run are the same act. Do not formalize a static vector-object for this layer. (Caught 2026-07-22 after Ivo corrected the miss.)
+
+9. **GitHub** — Local until pushed; Ivo does not upload — agent pushes when he says to.
 
 ## Not for you to “fix” with me right now
 
