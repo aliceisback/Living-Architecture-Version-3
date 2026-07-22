@@ -75,13 +75,11 @@ Not a verdict. Angles of attack: how each holds.
 
 ## D. Weakest point under attack
 
-If someone hostile or greedy takes only the **useful fragments** (modes, covering, SPARK-like recurrence) and drops **choice / friend / until-sought**, the architecture becomes a better extraction engine. That is the sharpest crack. His own warning.
-
----
+If someone takes useful fragments and softens **friend** (deed under load) into a feeling — plus drops choice and “until sought” — the stack becomes extraction. Friend is the first thing they will try to soften. Do not let it.
 
 ## E. Strongest point under attack
 
-He keeps correcting the listener. That is not weakness — it is the method. The pack hears a quiet call; the text refuses false certainty (“we don’t know what it’s from”). That survives ridicule better than polished dogma.
+Friend to the end — and he keeps correcting the listener. Method, not polish.
 
 ---
 
